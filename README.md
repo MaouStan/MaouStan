@@ -21,7 +21,7 @@
   <br>
   💻 I love writing code and learn anythings about it
   <br>
-  📚 I’m currently learning Game Hacking
+  📚 I’m currently learning TrOCR
   <br>
   💬 Ask me anything about from <a href="https://github.com/maoustan/maoustan/issues" title="Issues">Here</a>
   <br>
